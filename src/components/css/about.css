@@ -1,0 +1,42 @@
+/* about.css */
+.about-container {
+    width: 100%;
+    padding: 5vw 10vw;
+    /* gap: 100px; */
+    color: #fff;
+  }
+
+  .about{
+    display: flex;
+    margin-top: 5%;
+  }
+  
+  .about img {
+    width: 25%;
+    margin-right: 20%;
+    margin-left: 10%;
+    
+ 
+  }
+  
+  .textabout {
+    width: 25rem;
+  }
+  
+  .textabout h5 {
+    text-transform: uppercase;
+    
+    margin-bottom: 10px;
+  }
+  
+  .textabout p {
+    line-height: 1.7;
+    margin-bottom: 30px;
+  }
+
+  .nav-link{
+    color: black;
+  }
+  
+
+  

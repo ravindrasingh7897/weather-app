@@ -1,0 +1,20 @@
+.city-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 50px;
+    
+}
+
+.city-table th,
+.city-table td {
+    padding: 8px;
+    text-align: left;
+    padding-left: 200px;
+
+    border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+}
+
+.city-table th {
+    background-color: #f2f2f2;
+}
