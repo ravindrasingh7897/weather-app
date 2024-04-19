@@ -3,8 +3,7 @@ import React, { useState } from 'react';
 import '../App.js';
 import './css/weather.css'
 import searchimage from "./images/search.png"
-import cloudimage from "./images/cloud.png"
-import Home from './Home';
+import cloudimage from "./images/images.png"
 
 
 
